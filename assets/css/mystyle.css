@@ -10,8 +10,7 @@ body { max-width: 1600px; margin: 0 auto }
 
 
 /* ==== HEADING AND PARAGRAPH STYLES  ==== */
-body { font-weight: bold;
-	font-family: sans-serif;}
+body { font-family: sans-serif }
 
 
 	.page-wrapper h1 { color: #01157c }
@@ -354,7 +353,7 @@ a.btn-rounded { border-radius: 100px }
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #01157c;
+	background-color: blue;
 }
 
 .hero-block-1 h1, .hero-block-1 h2 {
