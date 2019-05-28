@@ -404,12 +404,12 @@ a.btn-rounded { border-radius: 100px }
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #11119b;
+	background-color: blue;
 }
 
 .hero-block-2 h1, .hero-block-2 h2 {
 	text-align: left;
-	color: #000;
+	color: white;
 	font-family: 'Montserrat', sans-serif;
 }
 
