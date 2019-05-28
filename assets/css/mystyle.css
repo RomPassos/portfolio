@@ -12,9 +12,8 @@ body { max-width: 1600px; margin: 0 auto }
 /* ==== HEADING AND PARAGRAPH STYLES  ==== */
 body { font-family: sans-serif }
 
-
-	.page-wrapper h1 { color: #01157c }
-	.page-wrapper p  { color: #01157c }
+.page-wrapper h1 { color: deeppink }
+.page-wrapper p  { color: #32364E }
 
 /* Desktop */
 @media all and (min-width:767px) { 
