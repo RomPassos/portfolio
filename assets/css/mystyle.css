@@ -13,7 +13,7 @@ body { max-width: 1600px; margin: 0 auto }
 body { font-family: sans-serif}
 
 
-.page-wrapper h1 { color: deeppink }
+.page-wrapper h1 { color: blue }
 .page-wrapper p  { color: #0054db }
 
 /* Desktop */
@@ -142,7 +142,7 @@ body { font-family: sans-serif}
 		margin-bottom:0;
 		height: 54px;
 		position: fixed;
-		background-color: deeppink;
+		background-color: blue;
 	}
 
 	.container-menu-mobile img { 
@@ -404,7 +404,7 @@ a.btn-rounded { border-radius: 100px }
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #78d8da;
+	background-color: #11119b;
 }
 
 .hero-block-2 h1, .hero-block-2 h2 {
