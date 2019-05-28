@@ -353,7 +353,7 @@ a.btn-rounded { border-radius: 100px }
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #0054db;
+	background-color: blue;
 }
 
 .hero-block-1 h1, .hero-block-1 h2 {
