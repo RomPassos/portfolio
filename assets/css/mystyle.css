@@ -353,12 +353,12 @@ a.btn-rounded { border-radius: 100px }
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: dark-blue;
+	background-color: red;
 }
 
 .hero-block-1 h1, .hero-block-1 h2 {
 	text-align: center;
-	color: white;
+	color: green;
 	font-weight: bold;
 	font-family: 'Open Sans', sans-serif;
 }
