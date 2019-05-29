@@ -100,7 +100,7 @@ body { font-family: sans-serif}
 	.container-menu-desktop ul li a.btn-solid { 
 		border-bottom:none; 
 		text-decoration: none;
-		background-color: #11119b;
+		background-color: white;
 		color:#fff;
 	}
 
@@ -174,7 +174,7 @@ body { font-family: sans-serif}
 		overflow-y: auto; 
 		-webkit-overflow-scrolling: touch; 
 		transition: 0.5s;
-		background: #11119b;
+		background: blue;
 		width: 320px;
 		right: -320px;
 		z-index:100;
