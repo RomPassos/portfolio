@@ -100,7 +100,7 @@ body { font-family: sans-serif}
 	.container-menu-desktop ul li a.btn-solid { 
 		border-bottom:none; 
 		text-decoration: none;
-		background-color: white;
+		background-color: #fff;
 		color:#fff;
 	}
 
@@ -190,7 +190,7 @@ body { font-family: sans-serif}
 	ul.menu-mobile-options-list li a { 
 		border-bottom:none; 
 		text-decoration: none;
-		color: #fff;
+		color: blue;
 		font-weight:bold;
 		font-size:18px;
 	}
